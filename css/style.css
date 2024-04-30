@@ -386,7 +386,7 @@ main {
     margin: 0 10px;
     padding: 5px;
 
-    background: url(/img/discount4.jpg);
+    background: url(/img/router4jpg.jpg);
     background-size:cover;
     background-position: center;
 
@@ -395,7 +395,7 @@ main {
 
 .discount2 {
     width: 50%;
-    background: url(/img/discount3.jpg);
+    background: url(/img/router1.jpg);
     background-size: cover;
     background-position: center;
 
@@ -584,7 +584,7 @@ main {
     position: relative;
     width: 100%;
    
-    background-image: url(/img/card2.jpg);
+    background-image: url(/img/router3.jpg);
 
     
 }
