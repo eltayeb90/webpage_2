@@ -389,11 +389,8 @@ main {
     width: 50%;
     margin: 0 10px;
     padding: 5px;
-/* 
-    background: url(/img/discounttow.jpg); */
-    background-size:cover;
-    background-position: center;
 
+    
     transition: .3s;
 }
 
@@ -404,15 +401,6 @@ main {
     margin: 0 auto;
   
     
-}
-
-.discount2 {
-    width: 50%;
-    background: url(/img/discountone.jpg);
-    background-size: cover;
-    background-position: center;
-
-    transition: .3s;
 }
 
 .dis:hover {
